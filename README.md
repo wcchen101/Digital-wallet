@@ -1,3 +1,8 @@
+# My Program Dependency
+1. Python version 3.5.2 
+2. OSX El Captian version 10.11.6
+
+
 # Table of Contents
 
 1. [Challenge Summary] (README.md#challenge-summary)
